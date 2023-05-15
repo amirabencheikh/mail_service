@@ -1,0 +1,36 @@
+.contact-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .contact-form {
+    background-color: #f7f7f7;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+  }
+  
+  .contact-form h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  .contact-form label {
+    font-weight: bold;
+  }
+  
+  .contact-form textarea {
+    resize: none;
+  }
+  
+  .contact-form button {
+    margin-top: 20px;
+  }
+  
+
+  .formBasicMessage {
+    margin-top: auto;
+  }
